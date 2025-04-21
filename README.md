@@ -72,11 +72,6 @@ You can add a short terminal screenshot or GIF here to show how the project work
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or add.
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
